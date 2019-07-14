@@ -5,12 +5,9 @@ published: false
 date: 2015-02-01
 categories: [blogging]
 tags: [blogging]
+published: true
 ---
 
 #  =    Hello world
-## =    This is my first post in my new blog, as of now.
 
----
-other front matter tags 
-published: true
----
+
