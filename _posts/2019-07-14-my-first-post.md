@@ -8,6 +8,6 @@ tags: [blogging]
 published: true
 ---
 
-##### Hello world
-
+This should be plain text.
+  This should be in a rectangle.
 
