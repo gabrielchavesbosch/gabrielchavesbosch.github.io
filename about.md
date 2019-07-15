@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Webpage under construction
+Webpage under construction.
 
 ### More Information
 
