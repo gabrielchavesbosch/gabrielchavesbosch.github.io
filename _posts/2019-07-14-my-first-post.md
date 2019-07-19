@@ -3,7 +3,7 @@ layout: post
 title: Hello world!
 published: false
 date: 2019-07-14
-categories: [blogging]
+categories: ['welcome']
 tags: [blogging]
 published: true
 ---
